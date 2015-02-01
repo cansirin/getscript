@@ -1,0 +1,24 @@
+{
+  "name": "getscript",
+  "version": "0.1.0",
+  "description": "async js loader for browsers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetsuo/getscript.git"
+  },
+  "keywords": [
+    "loader",
+    "module",
+    "async",
+    "getscript",
+    "browser",
+    "browserify"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/getscript/issues"
+  },
+  "homepage": "https://github.com/tetsuo/getscript"
+}
