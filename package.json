@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tetsuo/getscript.git"
+    "url": "https://github.com/koding/getscript.git"
   },
   "keywords": [
     "loader",
@@ -18,7 +18,7 @@
   "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tetsuo/getscript/issues"
+    "url": "https://github.com/koding/getscript/issues"
   },
-  "homepage": "https://github.com/tetsuo/getscript"
+  "homepage": "https://github.com/koding/getscript"
 }
