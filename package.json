@@ -1,5 +1,5 @@
 {
-  "name": "getscript",
+  "name": "@koding/getscript",
   "version": "0.1.0",
   "description": "async js loader for browsers",
   "main": "index.js",
